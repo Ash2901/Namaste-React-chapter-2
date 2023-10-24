@@ -2,7 +2,6 @@
   "name": "chapter-2",
   "version": "1.0.0",
   "description": "ignite react app",
-  "main": "App.js",
   "scripts": {
     "test": "jest"
   },
@@ -17,6 +16,14 @@
   "author": "Ashish Kumar",
   "license": "UNLICENSED",
   "devDependencies": {
-    "parcel": "^2.10.0"
-  }
+    "parcel": "^2.10.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist": [
+    "last 3 versions"
+  ]
 }
