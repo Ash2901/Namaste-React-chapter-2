@@ -1,0 +1,22 @@
+{
+  "name": "chapter-2",
+  "version": "1.0.0",
+  "description": "ignite react app",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ash2901/Namaste-React-chapter-2.git"
+  },
+  "keywords": [
+    "\"Ashish",
+    "Kumar\""
+  ],
+  "author": "Ashish Kumar",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "parcel": "^2.10.0"
+  }
+}
